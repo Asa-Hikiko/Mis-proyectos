@@ -78,4 +78,4 @@ elif x=="no":
             print("No hay Problema")
         
 else:
-    print("Responde con si o no :v ")
+    print("Responde con un si o con un no :v ")
