@@ -41,8 +41,8 @@ elif x=="no":
             while b=="no":
                 print("¡Ya te Chingaste!\n")
                 print("¿Le puedes echar la culpa a Alguien?")
-                print("SI")
-                print("NO")
+                print("si")
+                print("no")
                 b=str(input("Respuesta:"))
                 if b=="si":
                     print("No hay Problema")

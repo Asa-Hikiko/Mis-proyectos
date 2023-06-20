@@ -45,8 +45,8 @@ while "si" or "no":
                 while b=="no":
                     print("¡Ya te Chingaste!\n")
                     print("¿Le puedes echar la culpa a Alguien?")
-                    print("SI")
-                    print("NO")
+                    print("si")
+                    print("no")
                     b=str(input("Respuesta:"))
                     if b=="si":
                         print("No hay Problema")
@@ -84,5 +84,5 @@ while "si" or "no":
                 break
         
     else:
-        print("Responde con si o no :v ")
+        print("Responde con un si o con un no :v ")
         
